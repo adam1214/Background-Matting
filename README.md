@@ -5,6 +5,7 @@ By Soumyadip Sengupta, Vivek Jayaram, Brian Curless, Steve Seitz, and Ira Kemelm
 
 This paper will be presented in IEEE CVPR 2020.
 
+## [**Chinese note**](https://senliuy.gitbook.io/advanced-deep-learning/qi-ta-ying-yong/background-matting)
 ## [**Project Page**](http://grail.cs.washington.edu/projects/background-matting/)
 
 Go to Project page for additional details and results.
